@@ -1,0 +1,7 @@
+streamlit
+numpy
+plotly
+langchain-openai
+langgraph
+python-dotenv
+typing-extensions
